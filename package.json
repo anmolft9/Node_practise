@@ -7,7 +7,7 @@
   },
   "type": "module",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon try.js"
   },
   "name": "nodejs",
   "version": "1.0.0",
